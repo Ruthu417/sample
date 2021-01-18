@@ -1,0 +1,2 @@
+This is the 4th file writing for git
+and it will be used further
